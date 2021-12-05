@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d288702-4b63-4e15-9e6e-fd17e8009bd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1igCeOlWRClSDF97V9xZReFFGIz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../checkname" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\eportfolio" />
+      <recent name="C:\xampp\htdocs\eportfolio\action" />
+      <recent name="C:\xampp\htdocs\eportfolio\frm_del" />
+      <recent name="C:\xampp\htdocs\eportfolio\h" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="frm_adddept.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/frm/frm_adddept.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="53e2f627-b1a7-4dfa-bfa7-5b83cc034776">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.frm_adddept.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d288702-4b63-4e15-9e6e-fd17e8009bd3" name="Default Changelist" comment="" />
+      <created>1602319942446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602319942446</updated>
+      <workItem from="1602319943499" duration="7000" />
+      <workItem from="1602320463445" duration="2725000" />
+      <workItem from="1602324364725" duration="134000" />
+      <workItem from="1602324500382" duration="15237000" />
+      <workItem from="1602405183461" duration="13223000" />
+      <workItem from="1602501611188" duration="8932000" />
+      <workItem from="1602565694890" duration="314000" />
+      <workItem from="1602678147263" duration="8682000" />
+      <workItem from="1602688240353" duration="158000" />
+      <workItem from="1603113333670" duration="920000" />
+      <workItem from="1603121903045" duration="42000" />
+      <workItem from="1603180248632" duration="1935000" />
+      <workItem from="1604372676985" duration="859000" />
+      <workItem from="1604486516160" duration="879000" />
+      <workItem from="1604487432406" duration="11729000" />
+      <workItem from="1604506111712" duration="3523000" />
+      <workItem from="1604542580343" duration="4987000" />
+      <workItem from="1604551572366" duration="1835000" />
+      <workItem from="1604572698261" duration="200000" />
+      <workItem from="1605017281279" duration="31000" />
+      <workItem from="1605341619617" duration="3804000" />
+      <workItem from="1605426713708" duration="3418000" />
+      <workItem from="1605491159481" duration="1422000" />
+      <workItem from="1605499043825" duration="4017000" />
+      <workItem from="1605520863331" duration="2012000" />
+      <workItem from="1605854287684" duration="688000" />
+      <workItem from="1605944292152" duration="4235000" />
+      <workItem from="1605962025399" duration="1870000" />
+      <workItem from="1606047182121" duration="622000" />
+      <workItem from="1606207734954" duration="375000" />
+      <workItem from="1612856106307" duration="902000" />
+      <workItem from="1612953489498" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
